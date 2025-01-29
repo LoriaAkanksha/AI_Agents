@@ -1,0 +1,9 @@
+crewai
+# crewai==0.75
+crewai_tools==0.12.1
+python-dotenv
+openai
+pyyaml
+pydantic
+
+
